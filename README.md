@@ -9,6 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/screenshot.jpg)
 
+### Link
+- Github pages - https://aldinpramudya.github.io/qr-code-development/ 
+
 ## Author
 - Frontend Mentor - [@aldinpramudya](https://www.frontendmentor.io/profile/aldinpramudya)
 
